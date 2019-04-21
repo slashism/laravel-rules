@@ -1,12 +1,21 @@
 {
-    "name": "slashism/laravel-rules",
-    "description": "Custom Laravel Rules",
+    "name": "slashism/laravel-validation-rules",
+    "keywords": [
+        "slashism",
+        "laravel-validation-rules",
+        "laravel rules",
+        "laravel validation",
+        "laravel custom rules"
+    ],
+    "description": "Custom validation rules for Laravel",
+    "homepage": "https://github.com/slashism/laravel-validation-rules",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
             "name": "Pankaj Sanam",
-            "email": "pankaj.sanam@gmail.com"
+            "email": "pankaj.sanam@gmail.com",
+            "homepage": "https://slashism.be"
         }
     ],
     "minimum-stability": "dev",
