@@ -1,0 +1,23 @@
+{
+    "name": "slashism/laravel-rules",
+    "description": "Custom Laravel Rules",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pankaj Sanam",
+            "email": "pankaj.sanam@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^7.1.3"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Slashism\\LaravelValidationRules\\ValidationRulesServiceProvider"
+            ]
+        }
+    }
+}
